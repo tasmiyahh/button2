@@ -1,0 +1,118 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw;
+    height: 120vh;
+    justify-content: center;
+    background-color: #008080;
+
+
+   }
+
+   .btn{
+    position: relative;
+    font-size: large;
+    padding: 10px 40px;
+    border-radius: 0px;
+    z-index: 1;
+    border: 1px solid white;
+    
+   }
+
+   .btn2{
+    position: relative;
+    font-size: large;
+    padding: 10px 29px;
+    border-radius: 0px;
+    z-index: 1;
+    border: 1px solid white;
+   }
+
+   .btn3{
+    position: relative;
+    font-size: large;
+    padding: 10px 30px;
+    border-radius: 0px;
+    z-index: 1;
+    border: 1px solid white;
+   }
+
+   .btn4{
+    position: relative;
+    font-size: large;
+    padding: 10px 33px;
+    border-radius: 0px;
+    z-index: 1;
+    border: 1px solid white;
+   }
+
+   .btn:hover{
+
+     box-shadow: -1px -1px 2px 2px #DAA520; 
+    cursor: pointer;
+   }
+
+   .btn2:hover{
+    
+     box-shadow: -1px -1px 2px 2px #DAA520; 
+    cursor: pointer;
+   }
+
+   .btn3:hover{
+    
+    box-shadow: -1px -1px 2px 2px #DAA520;
+    cursor: pointer;
+   }
+
+   .btn4:hover{
+    
+    box-shadow: -1px -1px 2px 2px #DAA520;
+    cursor: pointer;
+   }
+
+ 
+
+   .div1{
+     position: relative;
+     top:-35px;
+     background-color: #DAA520;
+     left: 10px;
+     width: 130px;
+     height: 43px;
+     z-index: 0;
+   }
+
+
+   .div2{
+    position: relative;
+    top:-35px;
+    background-color: #DAA520;
+    left: 10px;
+    width: 130px;
+    height: 43px;
+    z-index: 0;
+  }
+
+  .div3{
+    position: relative;
+    top:-35px;
+    background-color: #DAA520;
+    left: 10px;
+    width: 130px;
+    height: 43px;
+    z-index: 0;
+  }
+
+  .div4{
+    position: relative;
+    top:-35px;
+    background-color: #DAA520;
+    left: 10px;
+    width: 130px;
+    height: 43px;
+    z-index: 0;
+  }
+
+
+
